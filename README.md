@@ -1,2 +1,2 @@
 # LedDRGB
-Tiras led direcionables
+Tiras led direccionables RGB de 5 volts
